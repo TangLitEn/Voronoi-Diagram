@@ -2,7 +2,7 @@
 I created this repo just to document my code when helping my friend to code this Voronoi Diagram, learnt something new, just sharing 👍🏻
 
 # Voronoi-Diagram
-The Voronoi Diagram, also known as the Voronoi tessellation or Voronoi partition, is a fundamental concept in computational geometry and mathematical modeling. It is named after the Russian mathematician Georgy Voronoi and has a wide range of applications in various fields, including computer graphics, geospatial analysis, and physics.
+The Voronoi Diagram, also known as the Voronoi tessellation or Voronoi partition, is a fundamental concept in computational geometry and mathematical modeling. It is named after the Russian mathematician Georgy Feodosevich Voronyi  and has a wide range of applications in various fields, including computer graphics, geospatial analysis, and physics.
 
 ## What is a Voronoi Diagram?
 A Voronoi Diagram is a partitioning of a plane into regions based on the distance to a given set of points in the plane. Each region, called a Voronoi cell, contains all points that are closer to a specific input point than to any other point in the set. These Voronoi cells are defined by their boundaries, which consist of segments or curves connecting the input points. The diagram is also known as a Voronoi tessellation because it divides the plane into polygonal regions.
